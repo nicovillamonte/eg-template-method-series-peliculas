@@ -1,4 +1,4 @@
-import { Serie } from './contenido';
+import { Serie } from '../src/domain/contenido';
 
 describe('Test Series', () => {
   it('serie con presupuesto bajo no es interesante', () => {

@@ -1,4 +1,4 @@
-import { Pelicula } from './contenido';
+import { Pelicula } from '../src/domain/contenido';
 
 describe('Test Peliculas', () => {
   it('pelicula con presupuesto bajo no es interesante', () => {
